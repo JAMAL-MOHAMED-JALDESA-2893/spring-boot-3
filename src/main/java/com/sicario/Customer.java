@@ -12,4 +12,7 @@ public class Customer {
         this.email = email;
         this.age = age;
     }
+
+    public Customer() {
+    }
 }
